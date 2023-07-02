@@ -1,0 +1,17 @@
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\degiskenler_denm1\degiskenler_denm1\bin\Debug\net6.0-windows\degiskenler_denm1.exe
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\degiskenler_denm1\degiskenler_denm1\bin\Debug\net6.0-windows\degiskenler_denm1.deps.json
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\degiskenler_denm1\degiskenler_denm1\bin\Debug\net6.0-windows\degiskenler_denm1.runtimeconfig.json
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\degiskenler_denm1\degiskenler_denm1\bin\Debug\net6.0-windows\degiskenler_denm1.dll
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\degiskenler_denm1\degiskenler_denm1\bin\Debug\net6.0-windows\degiskenler_denm1.pdb
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\degiskenler_denm1\degiskenler_denm1\obj\Debug\net6.0-windows\degiskenler_denm1.csproj.AssemblyReference.cache
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\degiskenler_denm1\degiskenler_denm1\obj\Debug\net6.0-windows\degiskenler_denm1.Form1.resources
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\degiskenler_denm1\degiskenler_denm1\obj\Debug\net6.0-windows\degiskenler_denm1.csproj.GenerateResource.cache
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\degiskenler_denm1\degiskenler_denm1\obj\Debug\net6.0-windows\degiskenler_denm1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\degiskenler_denm1\degiskenler_denm1\obj\Debug\net6.0-windows\degiskenler_denm1.AssemblyInfoInputs.cache
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\degiskenler_denm1\degiskenler_denm1\obj\Debug\net6.0-windows\degiskenler_denm1.AssemblyInfo.cs
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\degiskenler_denm1\degiskenler_denm1\obj\Debug\net6.0-windows\degiskenler_denm1.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\degiskenler_denm1\degiskenler_denm1\obj\Debug\net6.0-windows\degiskenler_denm1.dll
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\degiskenler_denm1\degiskenler_denm1\obj\Debug\net6.0-windows\refint\degiskenler_denm1.dll
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\degiskenler_denm1\degiskenler_denm1\obj\Debug\net6.0-windows\degiskenler_denm1.pdb
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\degiskenler_denm1\degiskenler_denm1\obj\Debug\net6.0-windows\degiskenler_denm1.genruntimeconfig.cache
+C:\Users\yavuz\OneDrive\Masaüstü\PDD\degiskenler_denm1\degiskenler_denm1\obj\Debug\net6.0-windows\ref\degiskenler_denm1.dll
